@@ -23,5 +23,7 @@ This project iterates through different distance metrics (minkowski, manhattan, 
 The CNN model was defined using Keras' Sequential API. The model consists of nine total layers which combine convolutional layers for feature extraction, pooling layers for dimensionality reduction, dropout layers to prevent overfitting, and dense layers for final classification. The model is trained using the Adam optimizer, Sparse Categorical Crossentropy loss function, and accuracy metric. Training and validation accuracy/loss are tracked during the training process.
 
 
+More detailed infortmation can be found at the [presentation](Baytimur_AygazAIPresentation.pdf) document.
+
 [Google Collab Notebook]([url](https://colab.research.google.com/drive/1yw-Jo64cDnD0XPyr3PRb-JhgmG47w8td?usp=sharing))
 
