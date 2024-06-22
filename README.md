@@ -2,15 +2,15 @@
 This project tries to solve image classification task using the CIFAR-10 dataset.  Two approaches were used: **K-Nearest Neighbors (KNN)** and **Convolutional Neural Networks (CNN)**.
 
 #### Libraries Used
-pandas (pd)
-numpy (np)
-random
-matplotlib.pyplot (plt)
-seaborn (sns)
-scikit-learn (various modules)
-tensorflow (tf)
-keras (layers, models, etc.)
-Data Exploration and Preprocessing
+- pandas (pd)
+- numpy (np)
+- random
+- matplotlib.pyplot (plt)
+- seaborn (sns)
+- scikit-learn (various modules)
+- tensorflow (tf)
+- keras (layers, models, etc.)
+
 
 
 The [CIFAR-10]([url](https://www.cs.toronto.edu/~kriz/cifar.html)) dataset is loaded using tf.keras.datasets.cifar10.
